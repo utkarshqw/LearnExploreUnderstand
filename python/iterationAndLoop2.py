@@ -61,6 +61,12 @@ n = 1
 print(n is 1)
 print(n is not 1)
 
+# which is false 
+print(0 == 0.0)
+print(0 is 0.0)
+print(0 is not 0.0)
+
+# the is operaator check the address but the == operator checks the value 
 
 
 
