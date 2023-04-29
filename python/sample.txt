@@ -1,2 +1,4 @@
-this is a sample text
-line 2 sample text 
+Python is a high-level, general-purpose programming language.
+Its design philosophy emphasizes code readability with the
+use of significant is is is indentation via the off-side rule.
+Python is dynamically typed and garbage-collected.
