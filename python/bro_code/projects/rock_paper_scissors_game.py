@@ -46,5 +46,5 @@ while True:
         print("computer won match ended")
         break
     elif player_score == 5:
-        print("player won match ended")
+        print("player won match ends")
         break
